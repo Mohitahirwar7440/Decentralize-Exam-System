@@ -52,4 +52,4 @@ contract DecentralizedExamSystem {
         emit StudentRegistered(student);
     }
 
-    function deregisterStudent(address
+ 
